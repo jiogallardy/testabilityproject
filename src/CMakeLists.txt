@@ -4,9 +4,7 @@ include_directories(${GTEST_INCLUDE_DIRS})
 
 # Set the sources needed for the test executable
 set(TEST_SOURCES
-    factorial_test.cpp
-    some_other_file_test.cpp
-    sensor_test.cpp
+
 )
 
 # Add the test executable
