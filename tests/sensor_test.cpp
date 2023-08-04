@@ -10,9 +10,7 @@ protected:
 
 TEST_F(SensorTest, ReturnsCorrectTemperature) {
     // Replace this with the actual testing logic.
-    // For example, you might set up your sensor to return a known
-    // temperature, and then check if the readTemperature() method
-    // returns the expected value.
+  
     double expected_temp = 23.5;
     EXPECT_EQ(expected_temp, sensor.readTemperature());
 }
