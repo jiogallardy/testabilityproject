@@ -1,4 +1,4 @@
-# TAE Testability Project
+# Testability Project
 A quick demo of my knowledge on testing embedded systems
 Steps for running this project: 
 1. Get c++ code into an executable for the specific arm processor used in 
